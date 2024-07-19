@@ -34,4 +34,16 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/NaveenReddy0427/Ecommerce_Store
+
+   cd ecommerce-store
+
+    npm install
+
+    To run the backend: npm run backend
+
+    To run the frontend: npm run frontend
+
+    To run both frontend and backend: npm start
+
+
